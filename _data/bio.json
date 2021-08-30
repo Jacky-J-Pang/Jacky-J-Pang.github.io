@@ -2,14 +2,14 @@
   "basics": {
     "name": "Jacky J. Pang",
     "label": "Shidler College of Business Student",
-    "picture": "https://Jacky-J-Pang.github.io/images/",
+    "picture": "https://Jacky-J-Pang.github.io/images/Jacky Pang",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "(808)358-9712,
+    "website": "https://Jacky-J-Pang.github.io",
+    "summary": "I am studying for aB.B.A in Accounting and Finance at University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Jacky-J-Pang",
+        "url": "http://github.com/Jacky-J-Pang"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": " Travel" ,
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Basketball",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Food",
       "keywords": [
       ]
     }
