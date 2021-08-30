@@ -88,12 +88,15 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Diamond Head Travel",
+      "position": "Bookkeeper",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2021-06",
+      "summary": "Compile Annual Profit & Loss Statements through Quick Books—retail and construction"
+      "summary2": "Reconcile clients bank statements, matching actual against the recorded amount"
+      "summary3":	"Manage business clients’ payrolls using QuickBooks—15 employees in the aggregate"
+,
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
@@ -102,7 +105,7 @@
   ],
   "awards": [
     {
-      "title": "Deran's List",
+      "title": "Dean's List",
       "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
