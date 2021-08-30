@@ -46,15 +46,13 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Information Technology",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
+      "keywords": 
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -62,33 +60,31 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+        "Windows,
+        "Linux"
+       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "B.B.A, Accoutning and Finance (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.83",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Internal Audit",
+      "position": "Student Auditor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide reference matierals to assits full-time auditors on their repsective ingagement",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
@@ -136,8 +132,8 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Deran's List",
+      "date": "2019-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
@@ -150,7 +146,7 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": " Available upon request",
       "reference": ""
     }
   ]
