@@ -65,8 +65,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accoutning and Finance (expected Fall, 2022)",
-      "studyType": "B.B.A.,",
+      "area": "Accounting and Finance (expected Fall, 2022)",
+      "studyType": "B.B.A.",
       "startDate": "2019",
       "endDate": "Present",
       "gpa": "3.83",
@@ -81,7 +81,7 @@
       "website": "",
       "startDate": "2020",
       "endDate": "Present",
-      "summary": "Provide reference matierals to assits full-time auditors on their repsective ingagement",
+      "summary": "Provide reference matierals to assits full-time auditors on their repsective engagement",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
@@ -93,13 +93,11 @@
       "website": "",
       "startDate": "2019",
       "endDate": "2021-06",
-      "summary": "Compile Annual Profit & Loss Statements through Quick Books—retail and construction",
-      "summary2": "Reconcile clients bank statements, matching actual against the recorded amount",
-      "summary3":	"Manage business clients’ payrolls using QuickBooks—15 employees in the aggregate"
-,
+      "summary":  "Assist in providing consultant service for 12 clients",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Compile Annual Profit & Loss Statements through Quick Books—retail and construction",
+        "Reconcile clients bank statements, matching actual against the recorded amount",
+        "Manage business clients’ payrolls using QuickBooks—15 employees in the aggregate"
       ]
     }
   ],
