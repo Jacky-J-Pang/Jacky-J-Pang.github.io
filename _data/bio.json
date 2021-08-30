@@ -44,13 +44,16 @@
       ]
     }
   ],
-  "skills": [
+     "skills": [
     {
       "name": "Information Technology",
       "level": "",
-      "keywords": 
-        "Java, HTML, CSS, and Python",
-        
+      "keywords": [
+        "Java",
+        "HTML",
+        "CSS",
+        "Python"
+      ]
     },
     {
       "name": "Toolsets/OS",
@@ -59,7 +62,7 @@
         "MacOS",
         "Windows",
         "Linux"
-       ]
+      ]
     }
   ],
   "education": [
