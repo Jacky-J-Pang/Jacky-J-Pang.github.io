@@ -43,7 +43,9 @@ labels:
     
 5.	Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
      
-   <h1> <script>document.write(`Thank you for your purchase ${params.get('username')}!!!`);</script> </h1> and paste it in the code and have a if statement validation when        equals to udnefine hide the content. 
+   <h1> <script>document.write(`Thank you for your purchase ${params.get('username')}!!!`);</script> </h1> 
+   
+   and then paste it in the code and have a if statement validation when equals to undefine hide the content. 
     use params.get function 
     whereas function equals to (new URL(document.location)).searchParams;
     
