@@ -6,7 +6,7 @@ date: 2021-12-07
 labels:
   - Software Engineering
   - Learning
-  - E4 Assignment 1 
+  - CheckPT
 ---
 1.	Show what each page will look like. The pages do not have to be “functional” but the design should clear. Here is an example PPT prototype
     See attacehd PPT in Laulima 
