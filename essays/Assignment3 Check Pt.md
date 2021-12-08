@@ -13,12 +13,12 @@ labels:
     
 2.	Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
   
-  For assignemtn 3 I am goining to do a compelete revamp of the entire project (old code was meh). For the products dispaly page I am planning to having the options to add your products to your shopping card and can be used via session ID. The property of the shopping card is the similar to a invoice file but still the user still have the option to change the quantity before the "actual Invoice" shows up. 
+  For assignemtn 3 I am goining to do a compelete revamp of the entire project (old code was meh). For the products dispaly page I am planning to having the options to add your products to your shopping card and can be used via session ID. The property of the shopping card is the similar to a invoice file but still the user still have the option to change the quantity before the "actual Invoice" shows up. Changes in the online inventory doesnt update until user hits confirm in the shoppping cart and a true invoice is generated. 
     
     
 3.	Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
   
-  Proabbly some validations to check sessionID and .get the necessary array format and establishing data structures have maybe a empty array for the user to import data from the selected products (idk how to implement that yet. Shopping cart data will just consist of user data, but upon checking out the process to take yourself to invoice. It verifies if stock is enough again, to makes sure other useres do not use the same session. Also the online inventory will only update after invoice is generated to ensure the inventory is the up to date and not stalled because someone has it in their shopping cart. to behonest Im not very sure on how the best use of data format to be. Was thinking SQL but still not sure what to with it. 
+  Proabbly some validations to check sessionID and .get the necessary array format and establishing data structures have maybe a empty array for the user to import data from the selected products (idk how to implement that yet or if its possible). Shopping cart data will just consist of user data, but upon checking out the process to take yourself to invoice. It verifies if stock is enough again, to makes sure other useres do not use the same session. Also the online inventory will only update after invoice is generated to ensure the inventory is the up to date and not stalled because someone has it in their shopping cart. to behonest Im not very sure on how the best use of data format to be. Was thinking SQL but still not sure what to with it. 
 
 
 4.	How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
@@ -43,7 +43,7 @@ labels:
     
 5.	Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
      
-   <h1> <script>document.write(`Thank you for your purchase ${params.get('username')}!!!`);</script> </h1> 
+    <script>document.write(`Thank you for your purchase ${params.get('username')}!!!`);</script> 
    
    and then paste it in the code and have a if statement validation when equals to undefine hide the content. 
     use params.get function 
